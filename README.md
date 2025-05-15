@@ -92,7 +92,8 @@ The model was evaluated using standard classification metrics:
 
 Below is a preview of the deployed web application:
 
-![IPL Win Predictor UI](ipl_app_ui_screenshot.png)
+![image](https://github.com/user-attachments/assets/a06e86c2-496e-44a2-8ade-3157ac2b9256)
+
 
 ---
 
