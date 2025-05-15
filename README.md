@@ -108,7 +108,7 @@ The model was evaluated using standard classification metrics:
 
 ## 🗂️ Repository Structure
 IPL-Win-Predictor-/
-├── app.py                    # Streamlit web app
+├── app.py                   # Streamlit web app
 ├── ipl_win_predictor.ipynb  # EDA and model training notebook
 ├── model.pkl                # Trained logistic regression model
 ├── requirements.txt         # Project dependencies
