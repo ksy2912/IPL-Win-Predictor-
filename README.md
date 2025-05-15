@@ -170,6 +170,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-For any inquiries or feedback, please contact [your email address].
+For any inquiries or feedback, please contact Khushi9356966@gmail.com.
 
 ---
